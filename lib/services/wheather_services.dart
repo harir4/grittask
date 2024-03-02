@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:grittask/model/wheather_model.dart';
-import 'package:grittask/screens/controller/wheather_controller.dart';
+import 'package:grittask/controller/wheather_controller.dart';
 import "package:http/http.dart" as http;
 
 class WeatherService {

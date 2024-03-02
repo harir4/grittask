@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:grittask/screens/controller/wheather_controller.dart';
+import 'package:grittask/controller/wheather_controller.dart';
 import 'package:grittask/screens/home_screen.dart';
 import 'package:provider/provider.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:grittask/screens/controller/wheather_controller.dart';
+import 'package:grittask/controller/wheather_controller.dart';
 import 'package:grittask/screens/permission_screen.dart';
 import 'package:grittask/widgets/search_widget.dart';
 import 'package:provider/provider.dart';
